@@ -7,3 +7,4 @@
 - generare app_key tramite `php artisan key:generate`
 - lanciare il migrate tramite artisan
 - fare  il comando `php artisan serve`
+-Ad esempio: Name, Operators, Family, Manufacturer
